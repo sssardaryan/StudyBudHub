@@ -1,0 +1,100 @@
+name ,class,availability,day availability,style
+Study Group 1,CS 102,morning ,weekday,auditory
+Study Group 2,CS 102,afternoon,weekday,reading/writing
+Study Group 3,CS 102,evenings,weekday,visual
+Study Group 4,CS 102,mornings,weekend,kinesthetic
+Study Group 5,CS 102,afternoon ,weekend,reading/writing
+Study Group 6,CS 102,evenings,weekend ,auditory
+Study Group 7,CS 102,mornings,every day,reading/writing
+Study Group 8,CS 102,afternoon ,every day,visual
+Study Group 9,CS 102,evenings,every day,kinesthetic
+Study Group 10,CS 103,mornings,weekday,reading/writing
+Study Group 11,CS 103,afternoon,weekday,visual
+Study Group 12,CS 103,evenings,weekday,auditory
+Study Group 13,CS 103,mornings,weekend,reading/writing
+Study Group 14,CS 103,afternoon ,weekend,auditory
+Study Group 15,CS 103,evenings,weekend ,reading/writing
+Study Group 16,CS 103,mornings,every day,visual
+Study Group 17,CS 103,afternoon ,every day,kinesthetic
+Study Group 18,CS 103,evenings,every day,reading/writing
+Study Group 19,CS 104,morning ,weekday,kinesthetic
+Study Group 20,CS 104,afternoon,weekday,auditory
+Study Group 21,CS 104,evenings,weekday,visual
+Study Group 22,CS 104,mornings,weekend,auditory
+Study Group 23,CS 104,afternoon ,weekend,kinesthetic
+Study Group 24,CS 104,evenings,weekend ,auditory
+Study Group 25,CS 104,mornings,every day,reading/writing
+Study Group 26,CS 104,afternoon ,every day,visual
+Study Group 27,CS 104,evenings,every day,kinesthetic
+Study Group 28,CS 201,morning ,weekday,kinesthetic
+Study Group 29,CS 201,afternoon,weekday,auditory
+Study Group 30,CS 201,evenings,weekday,visual
+Study Group 31,CS 201,mornings,weekend,kinesthetic
+Study Group 32,CS 201,afternoon ,weekend,reading/writing
+Study Group 33,CS 201,evenings,weekend ,visual
+Study Group 34,CS 201,mornings,every day,auditory
+Study Group 35,CS 201,afternoon ,every day,visual
+Study Group 36,CS 201,evenings,every day,reading/writing
+Study Group 37,CS 270,morning ,weekday,visual
+Study Group 38,CS 270,afternoon,weekday,auditory
+Study Group 39,CS 270,evenings,weekday,visual
+Study Group 40,CS 270,mornings,weekend,visual
+Study Group 41,CS 270,afternoon ,weekend,kinesthetic
+Study Group 42,CS 270,evenings,weekend ,visual
+Study Group 43,CS 270,mornings,every day,visual
+Study Group 44,CS 270,afternoon ,every day,kinesthetic
+Study Group 45,CS 270,evenings,every day,reading/writing
+Study Group 46,CS 310,morning ,weekday,visual
+Study Group 47,CS 310,afternoon,weekday,visual
+Study Group 48,CS 310,evenings,weekday,auditory
+Study Group 49,CS 310,mornings,weekend,visual
+Study Group 50,CS 310,afternoon ,weekend,visual
+Study Group 51,CS 310,evenings,weekend ,visual
+Study Group 52,CS 310,mornings,every day,reading/writing
+Study Group 53,CS 310,afternoon ,every day,visual
+Study Group 54,CS 310,evenings,every day,kinesthetic
+Study Group 55,CS 360,morning ,weekday,visual
+Study Group 56,CS 360,afternoon,weekday,kinesthetic
+Study Group 57,CS 360,evenings,weekday,auditory
+Study Group 58,CS 360,mornings,weekend,auditory
+Study Group 59,CS 360,afternoon ,weekend,visual
+Study Group 60,CS 360,evenings,weekend ,auditory
+Study Group 61,CS 360,mornings,every day,visual
+Study Group 62,CS 360,afternoon ,every day,visual
+Study Group 63,CS 360,evenings,every day,visual
+Study Group 64,CS 356,morning ,weekday,reading/writing
+Study Group 65,CS 356,afternoon,weekday,visual
+Study Group 66,CS 356,evenings,weekday,visual
+Study Group 67,CS 356,mornings,weekend,reading/writing
+Study Group 68,CS 356,afternoon ,weekend,auditory
+Study Group 69,CS 356,evenings,weekend ,kinesthetic
+Study Group 70,CS 356,mornings,every day,visual
+Study Group 71,CS 356,afternoon ,every day,visual
+Study Group 72,CS 356,evenings,every day,kinesthetic
+Study Group 73,CS 353,morning ,weekday,auditory
+Study Group 74,CS 353,afternoon,weekday,reading/writing
+Study Group 75,CS 353,evenings,weekday,auditory
+Study Group 76,CS 353,mornings,weekend,visual
+Study Group 77,CS 353,afternoon ,weekend,visual
+Study Group 78,CS 353,evenings,weekend ,visual
+Study Group 79,CS 353,mornings,every day,visual
+Study Group 80,CS 353,afternoon ,every day,visual
+Study Group 81,CS 353,evenings,every day,kinesthetic
+Study Group 82,CS 350,morning ,weekday,visual
+Study Group 83,CS 350,afternoon,weekday,reading/writing
+Study Group 84,CS 350,evenings,weekday,auditory
+Study Group 85,CS 350,mornings,weekend,auditory
+Study Group 86,CS 350,afternoon ,weekend,visual
+Study Group 87,CS 350,evenings,weekend ,reading/writing
+Study Group 88,CS 350,mornings,every day,auditory
+Study Group 89,CS 350,afternoon ,every day,reading/writing
+Study Group 90,CS 350,evenings,every day,auditory
+Study Group 91,CS 401,morning ,weekday,visual
+Study Group 92,CS 401,afternoon,weekday,auditory
+Study Group 93,CS 401,evenings,weekday,kinesthetic
+Study Group 94,CS 401,mornings,weekend,auditory
+Study Group 95,CS 401,afternoon ,weekend,reading/writing
+Study Group 96,CS 401,evenings,weekend ,auditory
+Study Group 97,CS 401,mornings,every day,visual
+Study Group 98,CS 401,afternoon ,every day,visual
+Study Group 99,CS 401,evenings,every day,kinesthetic
